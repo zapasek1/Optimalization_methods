@@ -1,10 +1,10 @@
 # Optimalization_methods
 Authors: 
-PIOTR CHORZEWSKI
-NATHALIE DWORACZEK
-WIKTOR HEPPLER
-JAKUB ZAPAŚNIK 
-MICHAŁ KLOSKA
+PIOTR CHORZEWSKI,
+NATHALIE DWORACZEK,
+WIKTOR HEPPLER,
+JAKUB ZAPAŚNIK, 
+MICHAŁ KLOSKA,
 
 Optimizations performed for Michalewicz function:
   - Gradient-based optimisation with the use of finite differences,
